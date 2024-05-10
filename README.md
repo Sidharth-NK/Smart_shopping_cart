@@ -3,6 +3,8 @@
 
 ## Project Overview
 
+![Screenshot 2024-05-10 174916](https://github.com/Sidharth-NK/Smart_shopping_cart/assets/95956679/9284988d-88b5-4483-b68d-2029141176d4)
+
 The main idea is to automate the shopping process by scanning products using RFID tags attached to the items and an RFID reader attached to the cart. The total amount is displayed on the TFT screen, allowing efficient budget management and reducing waiting time in queues.
 
 ## Features
