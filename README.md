@@ -23,4 +23,4 @@ The main idea is to automate the shopping process by scanning products using RFI
 
 The Smart Shopping Cart project aims to revolutionize the traditional shopping experience by leveraging RFID technology and TFT screens. Streamlining the checkout process and enhancing the overall shopping experience offers significant benefits to both consumers and retailers.
 
-
+[![SMART SHOPPING CART](https://img.youtube.com/vi/4Oz2wCXuubk/0.jpg)](https://www.youtube.com/watch?v=4Oz2wCXuubk)
